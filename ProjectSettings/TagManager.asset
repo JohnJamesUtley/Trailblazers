@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dead
+  - CapturePoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Leaders
+  - Troops
+  - Sprites
+  - GameStuff
+  - MapStuff
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: ActualGround
+    uniqueID: 2923065599
+    locked: 0
+  - name: GroundPaint
+    uniqueID: 3371148005
+    locked: 0
+  - name: Ground
+    uniqueID: 4142558895
+    locked: 0
+  - name: GroundOverlay
+    uniqueID: 2469043943
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Important
+    uniqueID: 1828250169
+    locked: 0
