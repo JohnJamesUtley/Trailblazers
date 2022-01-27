@@ -65,11 +65,11 @@ Each player controls 3 leaders at all times. These leaders can be identified by 
 
 Battle is often one-sided and quick. The shape of your cohorts when engaged in melee will determine who takes almost all of the casualties. Troops will take casualties when their battle line is concave and conversely troops will deal damage when their battle line is convex.
 
-![Screenshot](Screenshots/UhOh.png "Bow")
+![Screenshot](Screenshots/UhOh.PNG "Bow")
 
 In the above situation, the red troops are in a pretty poor situation and are taking casualties fast. Notice the shape of the battle line. The blue leader brought his troops to the side and wrapped around the red troops. Blue is taking almost no casualties in this battle. The next step for red is to run or reposition his troops to form a more favorable battle line.
 
-![Screenshot](Screenshots/Encirclement.png "Encircled!")
+![Screenshot](Screenshots/Encirclement.PNG "Encircled!")
 
 In the above situation, the red troops are in a catastrophic situation. They have been encircled and due to the long line formed by blue compared to the shorter line formed by red they are taking casualties at an alarming rate. They have been almost instantly destroyed. I almost couldn't screenshot fast enough.
 
