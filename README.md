@@ -1,7 +1,7 @@
 # Trailblazers
  A 2-Player Fast Paced Action Real Time Strategy Game. 
 
- For the DALI Lab folks, this project was already in development when I read about the coding challenge. I figured it was acceptable to finish up this project and submit it as my designed game. I think it demonstrates my experience with Unity through work with the Animation System, The Physics System, Particle Systems, UI, and Unity's various libraries. I hope you enjoy it! It takes some practice to get a competitive game going.
+A project from right before starting college. I think it demonstrates my experience with Unity through work with the Animation System, The Physics System, Particle Systems, UI, and Unity's various libraries. I hope you enjoy it! It takes some practice to get a competitive game going.
 
 ## Controls
 
